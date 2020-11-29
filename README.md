@@ -1,2 +1,2 @@
 # PMMP-VK-RCON-bot
-VK bot that allows execute query commands from group messages
+VK bot that allows execute RCON commands from group messages
